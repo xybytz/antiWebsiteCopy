@@ -1,4 +1,4 @@
-  const specificURL = 'https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_writ';
+  const specificURL = 'your website here';
 
         // Get the current URL
         const currentURL = window.location.href;
